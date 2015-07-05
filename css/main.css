@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan.eot?#') format('eot'),
+    url('../fonts/BYekan.woff') format('woff'),
+    url('../fonts/BYekan.ttf') format('truetype');
+}
+
+.yekan {
+    font-family: BYekan;
+}
+
+a:HOVER {
+    text-decoration: none;
+}
+
+.lh {
+	line-height: 170%;
+}
